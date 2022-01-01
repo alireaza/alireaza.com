@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://www.alireaza.com/sitemap.xml
+
